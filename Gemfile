@@ -36,6 +36,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 # Use Bootstrap
 gem 'bootstrap-sass'
+gem 'jquery-rails'
 gem 'simple_form'
 
 # Use Devise for authentication
