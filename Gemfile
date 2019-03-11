@@ -38,6 +38,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'simple_form'
+gem 'will_paginate'
 
 # Use Devise for authentication
 gem 'devise'
